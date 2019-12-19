@@ -1,0 +1,13 @@
+/** Import css styles */
+@import "common/main.css";
+@import "common/mediaquery.css";
+
+@import "components/button.css";
+@import "components/klant.css";
+@import "components/table.css";
+
+@import "layouts/header.css";
+@import "layouts/login.css";
+@import "layouts/toevoegen.css";
+@import "layouts/home.css";
+
